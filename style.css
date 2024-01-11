@@ -1,0 +1,57 @@
+*{
+    margin: 0%;
+}
+/* indx.html */
+.image1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200;
+    height: 200;
+}
+.main-hading{
+    margin-top: 20px;
+}
+.contant{
+    text-align: center;
+}
+.main{
+    text-align: center;
+}
+/* account.html */
+.table{
+    text-align: center;
+    margin-top: 30px;
+}
+.th1{
+    background-color: #57c457ea;
+}
+.th2 , .th3{
+    background-color: #808080;
+}
+/* personal detail.html */
+
+.table-2{
+    margin-top: 20px;
+}
+
+.th-1  {
+    background-color: #57c457ea;
+}
+.th-2{
+    background-color: #5a5af0;
+}
+ .th-3{
+    background-color: #808080;
+}
+/* review.html */
+.table--2{
+    margin-top: 20px;
+
+}
+.th--1 ,.th--2{
+    background-color: #57c457ea;
+}
+.th--3{
+    background-color: #5a5af0;
+}
